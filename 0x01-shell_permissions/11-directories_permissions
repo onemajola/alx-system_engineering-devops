@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod ugo+rxw > dir0 dir1 dir2 hello
+sudo chmod -R+X . > dir0 dir1 dir2 hello
