@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod 774 > touch hello
+sudo chmod 754 > touch hello
