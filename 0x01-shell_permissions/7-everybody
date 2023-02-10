@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod 751 > touch hello
+sudo chmod ugo+x > touch hello
