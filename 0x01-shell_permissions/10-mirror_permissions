@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod 664 > touch hello olleh
+sudo chmod 351 > touch hello olleh
