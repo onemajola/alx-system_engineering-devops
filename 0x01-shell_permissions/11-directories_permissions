@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R ugo+X . > touch  dir{0..2}
+chmod -R a+X . > touch  dir0, dir1, dir2
