@@ -1,2 +1,4 @@
 # Getting into shell redirections
-# 1. Print "Hello, World" followed by a new line to the standard output
+# 0. Print "Hello, World" followed by a new line to the standard output
+# 1. Make a confused smiley
+# 2. Display a file
