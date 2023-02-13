@@ -1,0 +1,17 @@
+total 104
+drwxr-xr-x  16 onemajola  staff  512 Feb 13 17:26 .
+drwxr-xr-x   8 onemajola  staff  256 Feb 13 14:12 ..
+-rwxr--r--   1 onemajola  staff   32 Feb 13 15:41 0-hello_world
+-rwxr--r--   1 onemajola  staff   28 Feb 13 15:52 1-confused_smiley
+-rwxr--r--   1 onemajola  staff   28 Feb 13 16:30 2-hellofile
+-rwxr--r--   1 onemajola  staff   39 Feb 13 16:18 3-twofiles
+-rwxr--r--   1 onemajola  staff   29 Feb 13 16:24 4-lastlines
+-rwxr--r--   1 onemajola  staff   29 Feb 13 16:29 5-firstlines
+-rwxr--r--   1 onemajola  staff   40 Feb 13 16:46 6-third_line
+-rwxr--r--   1 onemajola  staff  101 Feb 13 17:09 7-file
+-rwxr--r--   1 onemajola  staff   37 Feb 13 17:26 8-cwd_state
+-rw-r--r--   1 onemajola  staff  381 Feb 13 16:50 README.md
+-rw-r--r--   1 onemajola  staff   12 Feb 13 17:09 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r--   1 onemajola  staff   12 Feb 13 16:59 \*\\\"Best\School"\\\*$\?\*\*\*\*\*:)
+-rw-r--r--   1 onemajola  staff  801 Feb 13 16:45 iacta
+-rw-r--r--   1 onemajola  staff    0 Feb 13 17:20 ls_cwd_content
