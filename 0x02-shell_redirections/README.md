@@ -10,4 +10,5 @@
 # 8. Write a command in another file
 # 9. Duplicate the last line of iacta
 # 10. Script that deletes all js files
-# 11. 
+# 11. Writing a script that counts the no. of directories and subdirectories
+# 12.  
