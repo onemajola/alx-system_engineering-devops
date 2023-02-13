@@ -7,4 +7,6 @@
 # 5. Display the first 10 lines of file  
 # 6. Display 3rd line of a file
 # 7. Create a Best School file with special characters"
-# 8.  
+# 8. Write a command in another file
+# 9. Duplicate the last line of iacta
+# 10.  
