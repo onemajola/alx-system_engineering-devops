@@ -11,4 +11,5 @@
 # 9. Duplicate the last line of iacta
 # 10. Script that deletes all js files
 # 11. Writing a script that counts the no. of directories and subdirectories
-# 12.  
+# 12. Display 10 newest files
+# 13. Script that takes a list as input and only prints words that appear exactl# t once
